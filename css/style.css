@@ -89,7 +89,7 @@ hr{
 
 .list .list-element{
     display: inline-block;
-    margin: 10px 150px 20px 20px;
+    margin: 10px 400px 20px 20px;
 }
 
 .check{
@@ -149,6 +149,30 @@ hr{
     line-height: 20px;
     color: #ffffff;
     background-color: #f29e33;
+    margin: 0 1px;
+    padding: 1px 5px;
+    border-radius: 20%;
+}
+
+.list .website{
+    display: inline-block;
+    height: 20px;
+    font-size: 10px;
+    line-height: 20px;
+    color: #ffffff;
+    background-color: #d763a1;
+    margin: 0 1px;
+    padding: 1px 5px;
+    border-radius: 20%;
+}
+
+.list .sales{
+    display: inline-block;
+    height: 20px;
+    font-size: 10px;
+    line-height: 20px;
+    color: #ffffff;
+    background-color: #b0c925;
     margin: 0 1px;
     padding: 1px 5px;
     border-radius: 20%;
