@@ -2,10 +2,30 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-
-    border: 1px solid #ffffff;
 }
 
 body{
     background-color: hsl(0, 0%, 90%);
 }
+
+/* Header */
+
+.header{
+    background-color: #ffffff;
+}
+
+.img{
+    height: 80px;
+    vertical-align: middle;
+    padding: 10px 0 10px 10px;
+    margin: 0 0 0 20px;
+}
+
+.title{
+    font-size: 50px;
+    vertical-align: middle;
+    font-family: "Roboto", sans-serif;
+    font-weight: 32px;
+}
+
+/* Main */
