@@ -89,7 +89,7 @@ hr{
 
 .list .list-element{
     display: inline-block;
-    margin: 10px 0 20px 20px;
+    margin: 10px 150px 20px 20px;
 }
 
 .check{
@@ -103,4 +103,53 @@ hr{
     border-color:1px solid #008000;
     margin: 0 5px 0 0;
     border: 1px solid;
+}
+
+.list .Q1-goals{
+    display: inline-block;
+    height: 20px;
+    font-size: 10px;
+    line-height: 20px;
+    color: #ffffff;
+    background-color: #9c72e4;
+    margin: 0 1px;
+    padding: 1px 5px;
+    border-radius: 20%;
+}
+
+.cross{
+    color: #ff0000;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    line-height: 20px;
+    border-radius: 50%;
+    border-color:1px solid #ff0000;
+    margin: 0 5px 0 0;
+    border: 1px solid;
+}
+
+.list .recruiting{
+    display: inline-block;
+    height: 20px;
+    font-size: 10px;
+    line-height: 20px;
+    color: #ffffff;
+    background-color: #64c0a9;
+    margin: 0 1px;
+    padding: 1px 5px;
+    border-radius: 20%;
+}
+
+.list .mobile{
+    display: inline-block;
+    height: 20px;
+    font-size: 10px;
+    line-height: 20px;
+    color: #ffffff;
+    background-color: #f29e33;
+    margin: 0 1px;
+    padding: 1px 5px;
+    border-radius: 20%;
 }
